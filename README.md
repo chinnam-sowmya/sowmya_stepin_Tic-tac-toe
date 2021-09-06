@@ -1,5 +1,5 @@
 # SDLC Activity Based Learning
-![Banner](https://freepikpsd.com/wp-content/uploads/2019/11/Tictactoe_Game_Ticktacktoe_93183-Transparent-Png-Images.png)
+![tic-tac-toe](https://user-images.githubusercontent.com/80390615/132171903-dc7a8320-52e4-431e-8bf0-79afc2778a19.png)
 
 
 ## Folder Structure
@@ -17,7 +17,7 @@ Folder             | Description
 1. ABC
 2. BCD
 3. ...
-4. ...
+
 
 ## Learning Resources
 1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
