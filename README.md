@@ -1,3 +1,23 @@
+<a href="https://frontend.code-inspector.com/public/user/github/chinnam-sowmya">
+   <img src="https://code-inspector.com/public/badge/user/github/chinnam-sowmya?style=light" alt="code inspector badge" />
+   <img  src="https://www.code-inspector.com/project/27776/score/svg" />
+   <img src="https://www.code-inspector.com/project/27776/status/svg" />
+
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # SDLC Activity Based Learning
 ![tic-tac-toe](https://user-images.githubusercontent.com/80390615/132171903-dc7a8320-52e4-431e-8bf0-79afc2778a19.png)
 
