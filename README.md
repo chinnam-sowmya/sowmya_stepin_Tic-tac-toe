@@ -7,6 +7,7 @@
 
 
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/7244000ceab247a29b12f1a61dc0fee6)](https://www.codacy.com/gh/chinnam-sowmya/sowmya_stepin_Tic-tac-toe/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=chinnam-sowmya/sowmya_stepin_Tic-tac-toe&amp;utm_campaign=Badge_Grade)
 
 
 
